@@ -1,0 +1,25 @@
+[project]
+name = "cs539-project"
+version = "0.1.0"
+description = "Synthetic Contrast Brain MRI and Tumor Segmentation (ECE 539 — Team G20)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26,<3",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+    "nibabel>=5.2",
+    "scikit-image>=0.22",
+    "torch>=2.2",
+    "huggingface-hub>=0.23",
+    "tqdm>=4.66",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,710 @@
+{
+  "split": "all",
+  "num_cases": 100,
+  "mean_ssim": 0.881601537363871,
+  "std_ssim": 0.029300459248258203,
+  "mean_psnr": 23.782879361478457,
+  "std_psnr": 2.117874233856006,
+  "per_case": [
+    {
+      "ssim": 0.8685948528446215,
+      "psnr": 22.459662620265675,
+      "num_slices": 125,
+      "case_id": "BraTS-GLI-00000-000",
+      "num_tumor_slices": 43
+    },
+    {
+      "ssim": 0.8668596296249047,
+      "psnr": 23.04255381572561,
+      "num_slices": 117,
+      "case_id": "BraTS-GLI-00002-000",
+      "num_tumor_slices": 44
+    },
+    {
+      "ssim": 0.847213980827934,
+      "psnr": 22.167131434622778,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00003-000",
+      "num_tumor_slices": 49
+    },
+    {
+      "ssim": 0.8817113562935432,
+      "psnr": 23.212824919615134,
+      "num_slices": 116,
+      "case_id": "BraTS-GLI-00005-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.8806477051416646,
+      "psnr": 23.62858524980857,
+      "num_slices": 125,
+      "case_id": "BraTS-GLI-00006-000",
+      "num_tumor_slices": 43
+    },
+    {
+      "ssim": 0.8686905930813035,
+      "psnr": 23.31813090784859,
+      "num_slices": 115,
+      "case_id": "BraTS-GLI-00008-000",
+      "num_tumor_slices": 13
+    },
+    {
+      "ssim": 0.8732486094734879,
+      "psnr": 23.394310785599753,
+      "num_slices": 112,
+      "case_id": "BraTS-GLI-00009-000",
+      "num_tumor_slices": 16
+    },
+    {
+      "ssim": 0.8720805959996996,
+      "psnr": 23.416205621143792,
+      "num_slices": 123,
+      "case_id": "BraTS-GLI-00011-000",
+      "num_tumor_slices": 34
+    },
+    {
+      "ssim": 0.8539068158372882,
+      "psnr": 22.73429425327589,
+      "num_slices": 123,
+      "case_id": "BraTS-GLI-00012-000",
+      "num_tumor_slices": 17
+    },
+    {
+      "ssim": 0.9063448721407771,
+      "psnr": 25.94763205768598,
+      "num_slices": 108,
+      "case_id": "BraTS-GLI-00014-000",
+      "num_tumor_slices": 25
+    },
+    {
+      "ssim": 0.9197751873139911,
+      "psnr": 25.97458765172455,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00016-000",
+      "num_tumor_slices": 35
+    },
+    {
+      "ssim": 0.8525473286490917,
+      "psnr": 22.223519146595315,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00017-000",
+      "num_tumor_slices": 16
+    },
+    {
+      "ssim": 0.8568684147538086,
+      "psnr": 22.62173901697096,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00018-000",
+      "num_tumor_slices": 59
+    },
+    {
+      "ssim": 0.868688319649717,
+      "psnr": 23.046592341987648,
+      "num_slices": 128,
+      "case_id": "BraTS-GLI-00019-000",
+      "num_tumor_slices": 32
+    },
+    {
+      "ssim": 0.8700491382760925,
+      "psnr": 22.663601908939107,
+      "num_slices": 120,
+      "case_id": "BraTS-GLI-00020-000",
+      "num_tumor_slices": 39
+    },
+    {
+      "ssim": 0.8826282557119141,
+      "psnr": 22.80284199997788,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00021-000",
+      "num_tumor_slices": 20
+    },
+    {
+      "ssim": 0.8697869100302993,
+      "psnr": 22.006794364616802,
+      "num_slices": 115,
+      "case_id": "BraTS-GLI-00022-000",
+      "num_tumor_slices": 63
+    },
+    {
+      "ssim": 0.8631562564768451,
+      "psnr": 22.671085078305687,
+      "num_slices": 128,
+      "case_id": "BraTS-GLI-00024-000",
+      "num_tumor_slices": 22
+    },
+    {
+      "ssim": 0.8698398783980031,
+      "psnr": 22.378274502375426,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00025-000",
+      "num_tumor_slices": 27
+    },
+    {
+      "ssim": 0.8667416246290762,
+      "psnr": 22.74349067903807,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00026-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.8771362227834264,
+      "psnr": 22.930404532255967,
+      "num_slices": 116,
+      "case_id": "BraTS-GLI-00028-000",
+      "num_tumor_slices": 49
+    },
+    {
+      "ssim": 0.8757661467852703,
+      "psnr": 23.369459790429996,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00030-000",
+      "num_tumor_slices": 45
+    },
+    {
+      "ssim": 0.854139569093502,
+      "psnr": 22.53168074988174,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00031-000",
+      "num_tumor_slices": 40
+    },
+    {
+      "ssim": 0.8555545598010224,
+      "psnr": 22.0931347261632,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00032-000",
+      "num_tumor_slices": 34
+    },
+    {
+      "ssim": 0.8683858289633754,
+      "psnr": 22.37242875670583,
+      "num_slices": 117,
+      "case_id": "BraTS-GLI-00033-000",
+      "num_tumor_slices": 27
+    },
+    {
+      "ssim": 0.8730093549540429,
+      "psnr": 22.845776169386053,
+      "num_slices": 112,
+      "case_id": "BraTS-GLI-00035-000",
+      "num_tumor_slices": 29
+    },
+    {
+      "ssim": 0.8638759641056183,
+      "psnr": 22.12170927204415,
+      "num_slices": 124,
+      "case_id": "BraTS-GLI-00036-000",
+      "num_tumor_slices": 50
+    },
+    {
+      "ssim": 0.8453073571231078,
+      "psnr": 23.09977930050476,
+      "num_slices": 115,
+      "case_id": "BraTS-GLI-00043-000",
+      "num_tumor_slices": 40
+    },
+    {
+      "ssim": 0.8921998070149117,
+      "psnr": 23.733900883300954,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00044-000",
+      "num_tumor_slices": 22
+    },
+    {
+      "ssim": 0.867166844984079,
+      "psnr": 22.27999622281065,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00045-000",
+      "num_tumor_slices": 29
+    },
+    {
+      "ssim": 0.8737640129840274,
+      "psnr": 22.194265548589907,
+      "num_slices": 119,
+      "case_id": "BraTS-GLI-00046-000",
+      "num_tumor_slices": 35
+    },
+    {
+      "ssim": 0.8537418917893288,
+      "psnr": 21.814203695574896,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00048-000",
+      "num_tumor_slices": 33
+    },
+    {
+      "ssim": 0.9010412993543379,
+      "psnr": 24.337875437283746,
+      "num_slices": 106,
+      "case_id": "BraTS-GLI-00049-000",
+      "num_tumor_slices": 40
+    },
+    {
+      "ssim": 0.8482726526812914,
+      "psnr": 21.155698628510446,
+      "num_slices": 125,
+      "case_id": "BraTS-GLI-00051-000",
+      "num_tumor_slices": 38
+    },
+    {
+      "ssim": 0.8667920107689221,
+      "psnr": 22.50701908662249,
+      "num_slices": 131,
+      "case_id": "BraTS-GLI-00052-000",
+      "num_tumor_slices": 55
+    },
+    {
+      "ssim": 0.8253403711032049,
+      "psnr": 22.317429921444795,
+      "num_slices": 127,
+      "case_id": "BraTS-GLI-00053-000",
+      "num_tumor_slices": 61
+    },
+    {
+      "ssim": 0.8535553789386623,
+      "psnr": 22.049967724458106,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00054-000",
+      "num_tumor_slices": 57
+    },
+    {
+      "ssim": 0.8603206000976519,
+      "psnr": 22.143471335667503,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00056-000",
+      "num_tumor_slices": 47
+    },
+    {
+      "ssim": 0.8671288336038041,
+      "psnr": 21.75731609254024,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00058-000",
+      "num_tumor_slices": 29
+    },
+    {
+      "ssim": 0.8539335556159613,
+      "psnr": 21.25083361346027,
+      "num_slices": 125,
+      "case_id": "BraTS-GLI-00059-000",
+      "num_tumor_slices": 48
+    },
+    {
+      "ssim": 0.8791719551639287,
+      "psnr": 22.81897108915032,
+      "num_slices": 137,
+      "case_id": "BraTS-GLI-00060-000",
+      "num_tumor_slices": 69
+    },
+    {
+      "ssim": 0.878462897442456,
+      "psnr": 23.28994896917547,
+      "num_slices": 130,
+      "case_id": "BraTS-GLI-00061-000",
+      "num_tumor_slices": 31
+    },
+    {
+      "ssim": 0.852606074862265,
+      "psnr": 21.55095355379921,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00062-000",
+      "num_tumor_slices": 22
+    },
+    {
+      "ssim": 0.8511877302865678,
+      "psnr": 21.680146663292554,
+      "num_slices": 128,
+      "case_id": "BraTS-GLI-00063-000",
+      "num_tumor_slices": 30
+    },
+    {
+      "ssim": 0.8669008029967008,
+      "psnr": 22.667779139122718,
+      "num_slices": 135,
+      "case_id": "BraTS-GLI-00064-000",
+      "num_tumor_slices": 49
+    },
+    {
+      "ssim": 0.856745535324536,
+      "psnr": 22.443368900484366,
+      "num_slices": 111,
+      "case_id": "BraTS-GLI-00066-000",
+      "num_tumor_slices": 25
+    },
+    {
+      "ssim": 0.8717983632219699,
+      "psnr": 22.070034833439788,
+      "num_slices": 103,
+      "case_id": "BraTS-GLI-00068-000",
+      "num_tumor_slices": 43
+    },
+    {
+      "ssim": 0.896223412725541,
+      "psnr": 23.770146407261525,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00070-000",
+      "num_tumor_slices": 45
+    },
+    {
+      "ssim": 0.8745798618145739,
+      "psnr": 22.194619589642215,
+      "num_slices": 131,
+      "case_id": "BraTS-GLI-00071-000",
+      "num_tumor_slices": 51
+    },
+    {
+      "ssim": 0.8430195272228955,
+      "psnr": 21.39515829653545,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00072-000",
+      "num_tumor_slices": 39
+    },
+    {
+      "ssim": 0.8284320734025384,
+      "psnr": 21.622903229615456,
+      "num_slices": 138,
+      "case_id": "BraTS-GLI-00074-000",
+      "num_tumor_slices": 41
+    },
+    {
+      "ssim": 0.8432275399182388,
+      "psnr": 22.38706444389942,
+      "num_slices": 135,
+      "case_id": "BraTS-GLI-00077-000",
+      "num_tumor_slices": 46
+    },
+    {
+      "ssim": 0.862223109151802,
+      "psnr": 22.394828640290456,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00078-000",
+      "num_tumor_slices": 41
+    },
+    {
+      "ssim": 0.8842621998538527,
+      "psnr": 22.5098779236781,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00081-000",
+      "num_tumor_slices": 41
+    },
+    {
+      "ssim": 0.8700052162388694,
+      "psnr": 22.52896949382935,
+      "num_slices": 108,
+      "case_id": "BraTS-GLI-00084-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.8620367648433414,
+      "psnr": 21.32849598725366,
+      "num_slices": 125,
+      "case_id": "BraTS-GLI-00085-000",
+      "num_tumor_slices": 30
+    },
+    {
+      "ssim": 0.8561379009923644,
+      "psnr": 21.595679192451556,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00087-000",
+      "num_tumor_slices": 53
+    },
+    {
+      "ssim": 0.8780023473214933,
+      "psnr": 22.512115187725144,
+      "num_slices": 105,
+      "case_id": "BraTS-GLI-00088-000",
+      "num_tumor_slices": 58
+    },
+    {
+      "ssim": 0.8643915702058975,
+      "psnr": 22.20966983223787,
+      "num_slices": 105,
+      "case_id": "BraTS-GLI-00089-000",
+      "num_tumor_slices": 42
+    },
+    {
+      "ssim": 0.8525492549974792,
+      "psnr": 22.387823361371197,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00090-000",
+      "num_tumor_slices": 27
+    },
+    {
+      "ssim": 0.8504242927595037,
+      "psnr": 21.99162628689357,
+      "num_slices": 123,
+      "case_id": "BraTS-GLI-00094-000",
+      "num_tumor_slices": 62
+    },
+    {
+      "ssim": 0.8522519061699416,
+      "psnr": 22.48469005510205,
+      "num_slices": 117,
+      "case_id": "BraTS-GLI-00095-000",
+      "num_tumor_slices": 46
+    },
+    {
+      "ssim": 0.837819223849264,
+      "psnr": 21.79738081422372,
+      "num_slices": 134,
+      "case_id": "BraTS-GLI-00096-000",
+      "num_tumor_slices": 35
+    },
+    {
+      "ssim": 0.8705633442568653,
+      "psnr": 22.31823324901295,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00097-000",
+      "num_tumor_slices": 38
+    },
+    {
+      "ssim": 0.8887018066777522,
+      "psnr": 23.73207727903341,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00098-000",
+      "num_tumor_slices": 42
+    },
+    {
+      "ssim": 0.88946713303218,
+      "psnr": 23.15104872775464,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00099-000",
+      "num_tumor_slices": 48
+    },
+    {
+      "ssim": 0.912066630641582,
+      "psnr": 25.685930365666437,
+      "num_slices": 116,
+      "case_id": "BraTS-GLI-00100-000",
+      "num_tumor_slices": 62
+    },
+    {
+      "ssim": 0.8950787376687492,
+      "psnr": 24.580871557585507,
+      "num_slices": 117,
+      "case_id": "BraTS-GLI-00101-000",
+      "num_tumor_slices": 42
+    },
+    {
+      "ssim": 0.8920438601954503,
+      "psnr": 24.851116243732992,
+      "num_slices": 127,
+      "case_id": "BraTS-GLI-00102-000",
+      "num_tumor_slices": 12
+    },
+    {
+      "ssim": 0.8479295499739238,
+      "psnr": 21.978938705217452,
+      "num_slices": 127,
+      "case_id": "BraTS-GLI-00103-000",
+      "num_tumor_slices": 39
+    },
+    {
+      "ssim": 0.8924318722382237,
+      "psnr": 25.537042741535515,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00104-000",
+      "num_tumor_slices": 44
+    },
+    {
+      "ssim": 0.9202607268430216,
+      "psnr": 25.724730511147985,
+      "num_slices": 123,
+      "case_id": "BraTS-GLI-00105-000",
+      "num_tumor_slices": 61
+    },
+    {
+      "ssim": 0.9142787738412989,
+      "psnr": 26.427103235845355,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00106-000",
+      "num_tumor_slices": 60
+    },
+    {
+      "ssim": 0.9098312947869647,
+      "psnr": 26.9067962664105,
+      "num_slices": 124,
+      "case_id": "BraTS-GLI-00107-000",
+      "num_tumor_slices": 38
+    },
+    {
+      "ssim": 0.9058427414368291,
+      "psnr": 26.098504028936063,
+      "num_slices": 130,
+      "case_id": "BraTS-GLI-00108-000",
+      "num_tumor_slices": 25
+    },
+    {
+      "ssim": 0.905933500731361,
+      "psnr": 24.50324174677677,
+      "num_slices": 127,
+      "case_id": "BraTS-GLI-00109-000",
+      "num_tumor_slices": 44
+    },
+    {
+      "ssim": 0.9458660151150632,
+      "psnr": 27.008573626713297,
+      "num_slices": 109,
+      "case_id": "BraTS-GLI-00110-000",
+      "num_tumor_slices": 39
+    },
+    {
+      "ssim": 0.8856325687515024,
+      "psnr": 24.501968658537486,
+      "num_slices": 124,
+      "case_id": "BraTS-GLI-00111-000",
+      "num_tumor_slices": 46
+    },
+    {
+      "ssim": 0.8871000958823813,
+      "psnr": 23.490495079290177,
+      "num_slices": 130,
+      "case_id": "BraTS-GLI-00112-000",
+      "num_tumor_slices": 44
+    },
+    {
+      "ssim": 0.8882368454568037,
+      "psnr": 25.66681093884939,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00113-000",
+      "num_tumor_slices": 24
+    },
+    {
+      "ssim": 0.9149633490673359,
+      "psnr": 23.751865277699384,
+      "num_slices": 113,
+      "case_id": "BraTS-GLI-00115-000",
+      "num_tumor_slices": 50
+    },
+    {
+      "ssim": 0.9055770646815906,
+      "psnr": 27.236830595448417,
+      "num_slices": 130,
+      "case_id": "BraTS-GLI-00116-000",
+      "num_tumor_slices": 71
+    },
+    {
+      "ssim": 0.9479313720098889,
+      "psnr": 29.0213773611507,
+      "num_slices": 118,
+      "case_id": "BraTS-GLI-00117-000",
+      "num_tumor_slices": 42
+    },
+    {
+      "ssim": 0.9084623024864464,
+      "psnr": 24.588340086633096,
+      "num_slices": 129,
+      "case_id": "BraTS-GLI-00118-000",
+      "num_tumor_slices": 59
+    },
+    {
+      "ssim": 0.9533330960214069,
+      "psnr": 29.371226212479,
+      "num_slices": 119,
+      "case_id": "BraTS-GLI-00120-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.9429221407928444,
+      "psnr": 28.478352319501784,
+      "num_slices": 112,
+      "case_id": "BraTS-GLI-00121-000",
+      "num_tumor_slices": 43
+    },
+    {
+      "ssim": 0.9530878442789059,
+      "psnr": 29.635883805302797,
+      "num_slices": 124,
+      "case_id": "BraTS-GLI-00122-000",
+      "num_tumor_slices": 42
+    },
+    {
+      "ssim": 0.9194663497697756,
+      "psnr": 26.136989104200925,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00123-000",
+      "num_tumor_slices": 50
+    },
+    {
+      "ssim": 0.8785956408388192,
+      "psnr": 26.05147950666434,
+      "num_slices": 126,
+      "case_id": "BraTS-GLI-00124-000",
+      "num_tumor_slices": 53
+    },
+    {
+      "ssim": 0.9111645944314161,
+      "psnr": 26.444298783511563,
+      "num_slices": 124,
+      "case_id": "BraTS-GLI-00126-000",
+      "num_tumor_slices": 59
+    },
+    {
+      "ssim": 0.855300868303011,
+      "psnr": 21.73513546340258,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00127-000",
+      "num_tumor_slices": 27
+    },
+    {
+      "ssim": 0.9086424546685807,
+      "psnr": 26.25361019576417,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00128-000",
+      "num_tumor_slices": 47
+    },
+    {
+      "ssim": 0.9458275111776207,
+      "psnr": 28.054392196487903,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00130-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.8964555170664965,
+      "psnr": 25.108806600371715,
+      "num_slices": 120,
+      "case_id": "BraTS-GLI-00131-000",
+      "num_tumor_slices": 41
+    },
+    {
+      "ssim": 0.9194135736699501,
+      "psnr": 26.82823523906299,
+      "num_slices": 115,
+      "case_id": "BraTS-GLI-00132-000",
+      "num_tumor_slices": 53
+    },
+    {
+      "ssim": 0.937586369439078,
+      "psnr": 27.772716724641988,
+      "num_slices": 130,
+      "case_id": "BraTS-GLI-00133-000",
+      "num_tumor_slices": 46
+    },
+    {
+      "ssim": 0.9201119208287581,
+      "psnr": 28.670801014052497,
+      "num_slices": 120,
+      "case_id": "BraTS-GLI-00134-000",
+      "num_tumor_slices": 62
+    },
+    {
+      "ssim": 0.8988452400104614,
+      "psnr": 22.97746639865539,
+      "num_slices": 122,
+      "case_id": "BraTS-GLI-00136-000",
+      "num_tumor_slices": 34
+    },
+    {
+      "ssim": 0.9329337077793044,
+      "psnr": 27.968000862640533,
+      "num_slices": 115,
+      "case_id": "BraTS-GLI-00137-000",
+      "num_tumor_slices": 54
+    },
+    {
+      "ssim": 0.9299951730698309,
+      "psnr": 27.04618370389431,
+      "num_slices": 121,
+      "case_id": "BraTS-GLI-00138-000",
+      "num_tumor_slices": 50
+    }
+  ]
+}
